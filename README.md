@@ -1,8 +1,9 @@
-# Pizza Sales Report
+Pizza Sales Report
 Objective
 The objective of this project is to analyze and gain insights into pizza sales in order to improve sales performance. By analyzing sales trends, identifying the most popular pizza types, and calculating averages and cumulative statistics, the report aims to provide valuable data for decision-making. The focus is on using advanced SQL queries to extract and manipulate data efficiently.
 
 Key Areas of Analysis
+
 Pizza Sales Analysis: Understanding the sales volume across different pizza types.
 Pizza Type Popularity: Identifying which pizza types are most popular among customers.
 Average Sales per Pizza Type: Calculating the average sales for each pizza type.
@@ -32,7 +33,9 @@ Example: JOIN, INNER JOIN
 Subqueries: To find the pizza type with the highest revenue and more.
 
 Example: Using SELECT statements within the WHERE clause for filtering.
+
 Benefits of Doing This Project
+
 Data-Driven Decision Making: By analyzing pizza sales data, businesses can make informed decisions on inventory, promotions, and marketing strategies.
 Sales Optimization: Understanding which pizza types are most popular and when peak sales occur allows businesses to optimize stock levels and tailor their offerings.
 Operational Insights: The report provides insights into the most efficient times and regions for pizza sales, which can help improve staffing and operational workflows.
